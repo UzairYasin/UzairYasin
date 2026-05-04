@@ -16,7 +16,6 @@
 
 ## 🌱 Currently Learning
 - Agentic AI Frameworks  
-- Robotics Programming  
 - Advanced Backend Architectures  
 - Scalable Web Applications  
 

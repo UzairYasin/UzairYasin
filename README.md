@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Uzair Yasin
 
 💻 **Software Engineering Student**  
-🎓 Currently pursuing **Certified Agentic AI Engineer** from [PIAIC.org](https://www.piaic.org)  
+🎓 **Certified Agentic AI Engineer** from [PIAIC.org](https://www.piaic.org)  
 🌐 **Full Stack Developer** with 3+ years of experience  
 
 ---
 
 ## 👀 Interests
-- Artificial Intelligence & Robotics  
+- Artificial Intelligence
 - Web & Web Application Development (Frontend & Backend)  
 - Open Source Contributions  
 - Problem Solving & Algorithm Design  
@@ -22,7 +22,7 @@
 ---
 
 ## 💞️ Looking to Collaborate On
-- AI & Robotics Projects  
+- AI & MVP Projects  
 - Full Stack Web Applications  
 - Innovative Open Source Tools  
 
